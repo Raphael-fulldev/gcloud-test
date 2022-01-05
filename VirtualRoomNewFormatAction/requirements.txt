@@ -1,0 +1,4 @@
+# File: requirements.txt
+firebase-admin
+qrcode
+
